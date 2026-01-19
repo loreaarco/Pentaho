@@ -1,0 +1,4 @@
+Country;ManufacturerID;ManufacturerName;TotalUnidades;TotalRevenue;AvgPrice
+Spain  ;1;Acme Corp;5;3135,0;15675,0
+Italy  ;2;Globex   ;2;1054,0;2108,0
+Germany;3;Initech  ;4;696,0;2784,0
